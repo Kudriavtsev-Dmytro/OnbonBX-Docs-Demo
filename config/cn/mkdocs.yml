@@ -1,4 +1,4 @@
-site_name: 'Manual'
+site_name: 'OnbonBX Docs'
 docs_dir: '../../docs/cn'                           # Where to find the English markdown files
 site_dir: '../../generated/cn'                      # Where to put the English HTML files
 
@@ -8,6 +8,8 @@ theme:
     #logo: assets/images/logo.svg                    # The logo is shared by all languages
     #favicon: assets/images/favicon.ico              # The favicon is shared by all languages
     language: cn                                    # The build's language
+    features:
+
 
 extra:                                              # Language Selection
   alternate:  
@@ -24,8 +26,8 @@ extra:                                              # Language Selection
 
     # Switch to Ukrainian
     - name: Ukrainian
-      link: /ua/
-      lang: ua
+      link: /uk/
+      lang: uk
 
 plugins:
   - search:                                         
