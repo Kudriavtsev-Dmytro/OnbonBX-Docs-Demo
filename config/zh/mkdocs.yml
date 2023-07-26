@@ -1,13 +1,13 @@
 site_name: 'OnbonBX Docs'
-docs_dir: '../../docs/uk'                           # Where to find the English markdown files
-site_dir: '../../generated/uk'                      # Where to put the English HTML files
+docs_dir: '../../docs/zh'                           # Where to find the English markdown files
+site_dir: '../../generated/zh'                      # Where to put the English HTML files
 
 theme:
     name: material
     #custom_dir: '../../overrides/'                  # This is where the customization of the theme lives
     #logo: assets/images/logo.svg                    # The logo is shared by all languages
     #favicon: assets/images/favicon.ico              # The favicon is shared by all languages
-    language: uk                                    # The build's language
+    language: zh                                    # The build's language
     feature:
       - content.tabs.link
       - content.code.annotation
@@ -62,5 +62,5 @@ copyright: Copyright &copy; <a href="https://github.com/Kudriavtsev-Dmytro" targ
 
 plugins:
   - search:                                         
-      lang: uk                                      # Set language for search
+      lang: zh                                      # Set language for search
 

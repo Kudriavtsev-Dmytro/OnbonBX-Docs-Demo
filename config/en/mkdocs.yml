@@ -46,8 +46,8 @@ extra:                                              # Language Selection
 
     # Switch to Chinese
     - name: Chinese
-      link: /cn/
-      lang: cn
+      link: /zh/
+      lang: zh
 
     # Switch to Ukrainian
     - name: Ukrainian
