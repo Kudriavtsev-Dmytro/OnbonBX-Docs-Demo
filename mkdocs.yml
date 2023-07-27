@@ -1,0 +1,35 @@
+site_name: OnbonBX Docs
+
+theme:
+    name: material
+    #logo: assets/images/logo.svg                    # The logo is shared by all languages
+    #favicon: assets/images/favicon.ico  
+    feature:
+      - content.tabs.link
+      - content.code.annotation
+      - content.code.copy
+      - navigation.tabs
+      - navigation.selections
+      - navigation.top
+      - search.suggest
+      - search.highlight
+      - toc.integrate
+    palette:
+      - scheme: default
+        toggle:
+          icon: material/toggle-switch-off-outline
+          name: Switch to dark mode
+        primary: blue
+        accent: red
+      - scheme: slate
+        toggle:
+          icon: material/toggle-switch
+          name: Switch to light mode
+        primary: blue
+        accent: red
+extra:
+    social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/Kudriavtsev-Dmytro
+      name: GitHub Kudriavtsev Dmytro
+copyright: Copyright &copy; <a href="https://github.com/Kudriavtsev-Dmytro" target="blank" rel="Kudriavtsev Dmytro">Kudriavtsev Dmytro</a>
