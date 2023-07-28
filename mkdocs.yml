@@ -5,6 +5,12 @@ theme:
   language: en
   #logo: assets/images/logo.svg
   #favicon: assets/images/favicon.ico
+  
+  # https://materialdesignicons.com
+  icon:
+    logo: material/book-open-variant
+    logo_tech: material/file-question
+    logo_fpv: material/api
     
   palette:
     - scheme: default
@@ -39,17 +45,6 @@ theme:
     - search.highlight
 
 extra:
-  alternate:
-    - name: English
-      link: /en/ 
-      lang: en
-    - name: 中文
-      link: /zh/
-      lang: zh
-    - name: Українська
-      link: /uk/
-      lang: uk
-
   social:
     - icon: fontawesome/brands/github-alt
       link: https://github.com/Kudriavtsev-Dmytro
@@ -97,3 +92,40 @@ copyright: Copyright &copy; <a href="https://github.com/Kudriavtsev-Dmytro" rel=
 plugins:
   - search:
       separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
+#
+  - i18n:
+      docs_structure: folder
+      material_alternate: true
+      default_language: en
+      languages:
+        en:
+          name: English
+          build: true
+          site_name: "OnbonBX documentation"
+        zh:
+          name: 中文
+          build: true
+          site_name: "OnbonBX 文档"
+        uk:
+          name: Українська
+          #build: true
+          site_name: "OnbonBX документація"
+        ru_UK:
+          name: Русский
+          #build: true
+          site_name: "OnbonBX документация"
+      
+      nav_translations:
+        en:
+          1Specifications: Specifications
+          2Manuals: Manuals
+        zh:
+          1Specifications: 规格
+          2Manuals: 用户手册
+        uk:
+          1Specifications: Характеристики
+          2Manuals: Посібники
+        ru_UK:
+          1Specifications: Спецификации
+          2Manuals: Руководства
+#
