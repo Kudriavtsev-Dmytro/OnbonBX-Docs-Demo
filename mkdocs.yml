@@ -5,13 +5,7 @@ theme:
   language: en
   #logo: assets/images/logo.svg
   #favicon: assets/images/favicon.ico
-  
-  # https://materialdesignicons.com
-  icon:
-    logo: material/book-open-variant
-    logo_tech: material/file-question
-    logo_fpv: material/api
-    
+     
   palette:
     - scheme: default
       toggle:
@@ -31,13 +25,13 @@ theme:
     code: Roboto Mono
    
   feature:
-    - navigation.tabs
-    - navigation.sections
-    - navigation.top
-    - navigation.expand
-    - navigation.path
-    - navigation.top
-    - toc.integrate
+  #  - navigation.tabs
+  #  - navigation.sections
+  #  - navigation.top
+  #  - navigation.expand
+  #  - navigation.path
+  #  - navigation.top
+  #  - toc.integrate
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
@@ -50,7 +44,7 @@ extra:
       link: https://github.com/Kudriavtsev-Dmytro
       name: GitHub Kudriavtsev Dmytro
   
-  generator: false
+  #generator: false
 
   consent:
     title: Cookie consent
@@ -70,12 +64,12 @@ extra:
       title: Was this page helpful?
       ratings:
         - icon: material/thumb-up-outline
-          name: This page was helpful
+          name: Like
           data: 1
           note: >-
             Thanks for your feedback!
         - icon: material/thumb-down-outline
-          name: This page could be improved
+          name: Dislike
           data: 0
           note: >- 
             Thanks for your feedback! Help us improve this page by
@@ -92,7 +86,7 @@ copyright: Copyright &copy; <a href="https://github.com/Kudriavtsev-Dmytro" rel=
 plugins:
   - search:
       separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
-#
+
   - i18n:
       docs_structure: folder
       material_alternate: true
@@ -128,4 +122,3 @@ plugins:
         ru_UK:
           1Specifications: Спецификации
           2Manuals: Руководства
-#
