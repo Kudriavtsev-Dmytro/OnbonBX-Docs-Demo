@@ -1,43 +1,133 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
-         <loc>None.</loc>
+         <loc>https://www.onbonbx.com/</loc>
          <lastmod>2023-07-28</lastmod>
          <changefreq>daily</changefreq>
-         <xhtml:link rel="alternate" hreflang="en" href="Noneen/"/>
-         <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/"/>
-         <xhtml:link rel="alternate" hreflang="uk" href="Noneuk/"/>
-         <xhtml:link rel="alternate" hreflang="ru_UK" href="Noneru_UK/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="https://www.onbonbx.com/en/"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://www.onbonbx.com/zh/"/>
+         <xhtml:link rel="alternate" hreflang="uk" href="https://www.onbonbx.com/uk/"/>
+         <xhtml:link rel="alternate" hreflang="ru_UK" href="https://www.onbonbx.com/ru_UK/"/>
          
     </url>
     <url>
-         <loc>None1Specifications/page2/</loc>
+         <loc>https://www.onbonbx.com/1Specifications/page2/</loc>
          <lastmod>2023-07-28</lastmod>
          <changefreq>daily</changefreq>
-         <xhtml:link rel="alternate" hreflang="en" href="Noneen/1Specifications/page2/"/>
-         <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/1Specifications/page2/"/>
-         <xhtml:link rel="alternate" hreflang="uk" href="Noneuk/1Specifications/page2/"/>
-         <xhtml:link rel="alternate" hreflang="ru_UK" href="Noneru_UK/1Specifications/page2/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="https://www.onbonbx.com/en/1Specifications/page2/"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://www.onbonbx.com/zh/1Specifications/page2/"/>
+         <xhtml:link rel="alternate" hreflang="uk" href="https://www.onbonbx.com/uk/1Specifications/page2/"/>
+         <xhtml:link rel="alternate" hreflang="ru_UK" href="https://www.onbonbx.com/ru_UK/1Specifications/page2/"/>
          
     </url>
     <url>
-         <loc>None2Manuals/page3/</loc>
+         <loc>https://www.onbonbx.com/2Manuals/page3/</loc>
          <lastmod>2023-07-28</lastmod>
          <changefreq>daily</changefreq>
-         <xhtml:link rel="alternate" hreflang="en" href="Noneen/2Manuals/page3/"/>
-         <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/2Manuals/page3/"/>
-         <xhtml:link rel="alternate" hreflang="uk" href="Noneuk/2Manuals/page3/"/>
-         <xhtml:link rel="alternate" hreflang="ru_UK" href="Noneru_UK/2Manuals/page3/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="https://www.onbonbx.com/en/2Manuals/page3/"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://www.onbonbx.com/zh/2Manuals/page3/"/>
+         <xhtml:link rel="alternate" hreflang="uk" href="https://www.onbonbx.com/uk/2Manuals/page3/"/>
+         <xhtml:link rel="alternate" hreflang="ru_UK" href="https://www.onbonbx.com/ru_UK/2Manuals/page3/"/>
          
     </url>
     <url>
-         <loc>None2Manuals/page4/</loc>
+         <loc>https://www.onbonbx.com/2Manuals/page4/</loc>
          <lastmod>2023-07-28</lastmod>
          <changefreq>daily</changefreq>
-         <xhtml:link rel="alternate" hreflang="en" href="Noneen/2Manuals/page4/"/>
-         <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/2Manuals/page4/"/>
-         <xhtml:link rel="alternate" hreflang="uk" href="Noneuk/2Manuals/page4/"/>
-         <xhtml:link rel="alternate" hreflang="ru_UK" href="Noneru_UK/2Manuals/page4/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="https://www.onbonbx.com/en/2Manuals/page4/"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://www.onbonbx.com/zh/2Manuals/page4/"/>
+         <xhtml:link rel="alternate" hreflang="uk" href="https://www.onbonbx.com/uk/2Manuals/page4/"/>
+         <xhtml:link rel="alternate" hreflang="ru_UK" href="https://www.onbonbx.com/ru_UK/2Manuals/page4/"/>
+         
+    </url>
+    <url>
+         <loc>https://www.onbonbx.com/3SDK/Admonitions/</loc>
+         <lastmod>2023-07-28</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://www.onbonbx.com/en/3SDK/Admonitions/"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://www.onbonbx.com/zh/3SDK/Admonitions/"/>
+         <xhtml:link rel="alternate" hreflang="uk" href="https://www.onbonbx.com/uk/3SDK/Admonitions/"/>
+         <xhtml:link rel="alternate" hreflang="ru_UK" href="https://www.onbonbx.com/ru_UK/3SDK/Admonitions/"/>
+         
+    </url>
+    <url>
+         <loc>https://www.onbonbx.com/3SDK/Code%20blocks/</loc>
+         <lastmod>2023-07-28</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://www.onbonbx.com/en/3SDK/Code%20blocks/"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://www.onbonbx.com/zh/3SDK/Code%20blocks/"/>
+         <xhtml:link rel="alternate" hreflang="uk" href="https://www.onbonbx.com/uk/3SDK/Code%20blocks/"/>
+         <xhtml:link rel="alternate" hreflang="ru_UK" href="https://www.onbonbx.com/ru_UK/3SDK/Code%20blocks/"/>
+         
+    </url>
+    <url>
+         <loc>https://www.onbonbx.com/3SDK/Content%20tabs/</loc>
+         <lastmod>2023-07-28</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://www.onbonbx.com/en/3SDK/Content%20tabs/"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://www.onbonbx.com/zh/3SDK/Content%20tabs/"/>
+         <xhtml:link rel="alternate" hreflang="uk" href="https://www.onbonbx.com/uk/3SDK/Content%20tabs/"/>
+         <xhtml:link rel="alternate" hreflang="ru_UK" href="https://www.onbonbx.com/ru_UK/3SDK/Content%20tabs/"/>
+         
+    </url>
+    <url>
+         <loc>https://www.onbonbx.com/3SDK/Data%20tables/</loc>
+         <lastmod>2023-07-28</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://www.onbonbx.com/en/3SDK/Data%20tables/"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://www.onbonbx.com/zh/3SDK/Data%20tables/"/>
+         <xhtml:link rel="alternate" hreflang="uk" href="https://www.onbonbx.com/uk/3SDK/Data%20tables/"/>
+         <xhtml:link rel="alternate" hreflang="ru_UK" href="https://www.onbonbx.com/ru_UK/3SDK/Data%20tables/"/>
+         
+    </url>
+    <url>
+         <loc>https://www.onbonbx.com/3SDK/Diagrams/</loc>
+         <lastmod>2023-07-28</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://www.onbonbx.com/en/3SDK/Diagrams/"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://www.onbonbx.com/zh/3SDK/Diagrams/"/>
+         <xhtml:link rel="alternate" hreflang="uk" href="https://www.onbonbx.com/uk/3SDK/Diagrams/"/>
+         <xhtml:link rel="alternate" hreflang="ru_UK" href="https://www.onbonbx.com/ru_UK/3SDK/Diagrams/"/>
+         
+    </url>
+    <url>
+         <loc>https://www.onbonbx.com/3SDK/Formatting/</loc>
+         <lastmod>2023-07-28</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://www.onbonbx.com/en/3SDK/Formatting/"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://www.onbonbx.com/zh/3SDK/Formatting/"/>
+         <xhtml:link rel="alternate" hreflang="uk" href="https://www.onbonbx.com/uk/3SDK/Formatting/"/>
+         <xhtml:link rel="alternate" hreflang="ru_UK" href="https://www.onbonbx.com/ru_UK/3SDK/Formatting/"/>
+         
+    </url>
+    <url>
+         <loc>https://www.onbonbx.com/3SDK/Icons%2C%20Emojis/</loc>
+         <lastmod>2023-07-28</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://www.onbonbx.com/en/3SDK/Icons%2C%20Emojis/"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://www.onbonbx.com/zh/3SDK/Icons%2C%20Emojis/"/>
+         <xhtml:link rel="alternate" hreflang="uk" href="https://www.onbonbx.com/uk/3SDK/Icons%2C%20Emojis/"/>
+         <xhtml:link rel="alternate" hreflang="ru_UK" href="https://www.onbonbx.com/ru_UK/3SDK/Icons%2C%20Emojis/"/>
+         
+    </url>
+    <url>
+         <loc>https://www.onbonbx.com/3SDK/Images/</loc>
+         <lastmod>2023-07-28</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://www.onbonbx.com/en/3SDK/Images/"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://www.onbonbx.com/zh/3SDK/Images/"/>
+         <xhtml:link rel="alternate" hreflang="uk" href="https://www.onbonbx.com/uk/3SDK/Images/"/>
+         <xhtml:link rel="alternate" hreflang="ru_UK" href="https://www.onbonbx.com/ru_UK/3SDK/Images/"/>
+         
+    </url>
+    <url>
+         <loc>https://www.onbonbx.com/3SDK/Lists/</loc>
+         <lastmod>2023-07-28</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://www.onbonbx.com/en/3SDK/Lists/"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://www.onbonbx.com/zh/3SDK/Lists/"/>
+         <xhtml:link rel="alternate" hreflang="uk" href="https://www.onbonbx.com/uk/3SDK/Lists/"/>
+         <xhtml:link rel="alternate" hreflang="ru_UK" href="https://www.onbonbx.com/ru_UK/3SDK/Lists/"/>
          
     </url>
 </urlset>
