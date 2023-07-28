@@ -25,13 +25,13 @@ theme:
     code: Roboto Mono
    
   feature:
-  #  - navigation.tabs
-  #  - navigation.sections
-  #  - navigation.top
-  #  - navigation.expand
-  #  - navigation.path
-  #  - navigation.top
-  #  - toc.integrate
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.expand
+    - navigation.path
+    - navigation.top
+    - toc.integrate
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
