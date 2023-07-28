@@ -1,3 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+         <loc>None.</loc>
+         <lastmod>2023-07-28</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/"/>
+         <xhtml:link rel="alternate" hreflang="uk" href="Noneuk/"/>
+         <xhtml:link rel="alternate" hreflang="ru_UK" href="Noneru_UK/"/>
+         
+    </url>
+    <url>
+         <loc>None1Specifications/page2/</loc>
+         <lastmod>2023-07-28</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/1Specifications/page2/"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/1Specifications/page2/"/>
+         <xhtml:link rel="alternate" hreflang="uk" href="Noneuk/1Specifications/page2/"/>
+         <xhtml:link rel="alternate" hreflang="ru_UK" href="Noneru_UK/1Specifications/page2/"/>
+         
+    </url>
+    <url>
+         <loc>None2Manuals/page3/</loc>
+         <lastmod>2023-07-28</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/2Manuals/page3/"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/2Manuals/page3/"/>
+         <xhtml:link rel="alternate" hreflang="uk" href="Noneuk/2Manuals/page3/"/>
+         <xhtml:link rel="alternate" hreflang="ru_UK" href="Noneru_UK/2Manuals/page3/"/>
+         
+    </url>
+    <url>
+         <loc>None2Manuals/page4/</loc>
+         <lastmod>2023-07-28</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/2Manuals/page4/"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/2Manuals/page4/"/>
+         <xhtml:link rel="alternate" hreflang="uk" href="Noneuk/2Manuals/page4/"/>
+         <xhtml:link rel="alternate" hreflang="ru_UK" href="Noneru_UK/2Manuals/page4/"/>
+         
+    </url>
 </urlset>
