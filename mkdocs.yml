@@ -1,11 +1,17 @@
 site_name: OnbonBX Docs
+site_url: https://www.onbonbx.com/
+site_description: Documentations of OnbonBX products
+site_author: Kudriavtsev Dmytro
+copyright: Copyright &copy; <a href="https://github.com/Kudriavtsev-Dmytro" rel="Kudriavtsev Dmytro">Kudriavtsev Dmytro</a>
+
 
 theme:
-  name: material
   language: en
   #logo: assets/images/logo.svg
   #favicon: assets/images/favicon.ico
+  highlightjs: true
   
+  name: material
   features:
     - navigation.tabs
     - navigation.sections
@@ -21,6 +27,9 @@ theme:
     - content.code.copy
     - search.suggest
     - search.highlight
+    - content.code.copy
+    - content.code.annotate
+    - content.tabs.link
      
   palette:
     - scheme: default
@@ -33,7 +42,7 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
-      primary: blue
+      primary: black
       accent: red
    
   font:
@@ -42,9 +51,14 @@ theme:
 
 extra:
   social:
-    - icon: fontawesome/brands/github-alt
+    #https://materialdesignicons.com/
+    - icon: material/github
       link: https://github.com/Kudriavtsev-Dmytro
-      name: GitHub Kudriavtsev Dmytro
+      name: GitHub Kudriavtsev Dmytro    
+    - icon: material/web
+      link: https://www.onbonbx.com/
+      name: OnbonBX website
+
   
   #generator: false
 
@@ -77,17 +91,51 @@ extra:
             Thanks for your feedback! Help us improve this page by
             using our <a href="..." target="_blank" rel="noopener">feedback form</a>.
 
-extra_css:
-  - stylesheets/extra.css
+#extra_css:
+  #- stylesheets/extra.css
 
-extra_javascript:
-  - javascripts/shortcuts.js
+#extra_javascript:
+  #- javascripts/shortcuts.js
 
-copyright: Copyright &copy; <a href="https://github.com/Kudriavtsev-Dmytro" rel="Kudriavtsev Dmytro">Kudriavtsev Dmytro</a>
+markdown_extensions:
+  - toc:
+      permalink: "#"
+      separator: "_"
+  - attr_list
+  - admonition
+  - def_list
+  - md_in_html
+  - tables
+  - pymdownx.critic
+  - pymdownx.caret  
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.snippets
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true 
 
 plugins:
   - search:
       separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
+
+  - table-reader
 
   - i18n:
       docs_structure: folder
