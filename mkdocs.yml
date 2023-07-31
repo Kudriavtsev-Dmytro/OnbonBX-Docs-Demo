@@ -51,7 +51,7 @@ theme:
 
 extra:
   social:
-    #https://materialdesignicons.com/
+    # https://materialdesignicons.com/
     - icon: material/github
       link: https://github.com/Kudriavtsev-Dmytro
       name: GitHub Kudriavtsev Dmytro    
@@ -59,8 +59,6 @@ extra:
       link: https://www.onbonbx.com/
       name: OnbonBX website
 
-  
-  #generator: false
 
   consent:
     title: Cookie consent
@@ -135,8 +133,10 @@ plugins:
   - search:
       separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
 
+  # Import data from a CSV or Excel 
   - table-reader
 
+  # Multilanguage localization
   - i18n:
       docs_structure: folder
       material_alternate: true
@@ -159,6 +159,7 @@ plugins:
           #build: true
           site_name: "OnbonBX документация"
       
+      # Navigation localization
       nav_translations:
         en:
           1Specifications: Specifications
